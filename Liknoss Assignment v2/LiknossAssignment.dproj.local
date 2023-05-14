@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/19 08:51:03.000.382,=C:\Users\Kostas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/10 18:25:21.000.750,=C:\Users\Kostas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/10 18:27:16.000.647,E:\Utils\_All Languages_\Family Delphi\_All Projects_\Linknoss Assignment v2\MainFrm.dfm=C:\Users\Kostas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/10 18:27:16.000.647,E:\Utils\_All Languages_\Family Delphi\_All Projects_\Linknoss Assignment v2\MainFrm.pas=C:\Users\Kostas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/10 18:27:55.000.924,E:\Utils\_All Languages_\Family Delphi\_All Projects_\Linknoss Assignment v2\LiknossAssignment.dproj=C:\Users\Kostas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/10 18:37:08.000.005,=E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\Unit1.pas</Transaction>
+    <Transaction>2023/05/10 18:38:16.000.743,E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\Unit1.pas=E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\MyHelper.pas</Transaction>
+    <Transaction>2023/05/10 19:10:30.000.000,=E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\Unit1.pas</Transaction>
+    <Transaction>2023/05/10 19:11:12.000.971,E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\DMDtm.pas=E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\Unit1.pas</Transaction>
+    <Transaction>2023/05/10 19:11:12.000.971,E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\DMDtm.dfm=E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\Unit1.dfm</Transaction>
+    <Transaction>2023/05/11 19:28:27.000.275,=E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\Unit1.pas</Transaction>
+    <Transaction>2023/05/11 19:30:27.000.860,E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\InsertFrm.pas=E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\Unit1.pas</Transaction>
+    <Transaction>2023/05/11 19:30:27.000.860,E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\InsertFrm.dfm=E:\Utils\_All Languages_\Family Delphi\_All Projects_\Liknoss Assignment v2\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
